@@ -1,0 +1,17 @@
+body{
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+form{
+    color: yellow;
+
+}
+
+input[type=text] {
+    width: 20%;
+    background-color: white;
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    }

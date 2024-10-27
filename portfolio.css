@@ -1,0 +1,19 @@
+body{
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+h1{
+    font-size: 70px;
+    text-align: center;
+}
+img{
+    width: 350px;
+   height: 350px;
+   border-radius: 50%;
+   border: 15px solid green;
+   position: relative;
+   left: 450px;
+
+}
